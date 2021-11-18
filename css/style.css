@@ -1,0 +1,21 @@
+.title {
+    display: flex;
+    justify-content: center;
+    font-size: 3em;
+}
+
+.navbar {
+    color: whitesmoke;
+    background-color: red;
+    text-decoration: none;
+}
+
+.link {
+    display: grid;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+body {
+    background-color: coral;
+}
